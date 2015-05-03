@@ -1,7 +1,3 @@
----
-title: This is my title
-layout: post
----
 # test
 
 ** hello **
@@ -11,3 +7,4 @@ layout: post
 - 2
 -   3
 - 2
+-   4
